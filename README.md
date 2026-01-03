@@ -3,7 +3,7 @@ Scaffolds a SPA (Single Page Application) project with a sophisticated build sys
 
 ## How to use
 ```sh
-npm init spa.de project_dir
+npm init spade project_dir
 ```
 
 ## License
