@@ -1,9 +1,9 @@
-# SPA Construction Environment
+# SPA Development Environment
 Scaffolds a SPA (Single Page Application) project with a sophisticated build system.
 
 ## How to use
 ```sh
-npm init spa.ce project_dir
+npm init spa.de project_dir
 ```
 
 ## License

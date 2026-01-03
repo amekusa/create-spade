@@ -1,14 +1,14 @@
 {
-  "name": "create-spa.ce",
+  "name": "create-spa.de",
   "version": "1.0.0",
-  "description": "SPA Construction Environment",
+  "description": "SPA Development Environment",
   "main": "index.js",
   "bin": {
     "create-spa.ce": "index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amekusa/spa.ce.git"
+    "url": "git+https://github.com/amekusa/create-spa.de.git"
   },
   "keywords": [
     "spa",
