@@ -4,7 +4,7 @@
   "description": "SPA Development Environment",
   "main": "index.js",
   "bin": {
-    "create-spa.ce": "index.js"
+    "create-spade": "index.js"
   },
   "repository": {
     "type": "git",
