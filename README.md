@@ -16,7 +16,7 @@ This project favors simple, well-understood tools over opaque all‑in‑one fra
 You don't need to `npm install` this package. Instead, just run:
 
 ```sh
-npm init spade my_project
+npm init spade@latest my_project
 ```
 
 This command creates a new directory called `my_project` with the following structure:
