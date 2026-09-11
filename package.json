@@ -1,6 +1,6 @@
 {
   "name": "create-spade",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "SPA Development Environment",
   "main": "index.js",
   "bin": {
